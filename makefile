@@ -1,4 +1,4 @@
 
 all:
 	echo hello world!
-        gcc -v
+	gcc -v
