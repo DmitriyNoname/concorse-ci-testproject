@@ -2,4 +2,4 @@
 all:
 	echo hello world!
 
-	echo it's worked!
+	echo "it's worked!"
